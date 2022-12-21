@@ -1,2 +1,2 @@
 # cool-backend
-[LIVEDEPLOYMENTKINK]()
+[LIVEDEPLOYMENTKINK](https://cool-backend.seifullaha.repl.co)
